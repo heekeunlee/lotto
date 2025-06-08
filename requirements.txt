@@ -1,7 +1,6 @@
 streamlit==1.30.0
-pandas==2.2.0
+pandas==2.1.4
 numpy
 plotly
 requests
 beautifulsoup4
-
